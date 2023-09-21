@@ -1,6 +1,6 @@
 # <span><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="75"/></span>Peter Xiong
 
-**Aspiring Developer**
+**Keep Learning! Keep Coding**
 <!--
 **peter-xiong/peter-xiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
