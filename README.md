@@ -1,4 +1,4 @@
-# <span><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="75"/></span>Peter Xiong
+# Peter Xiong
 
 **Keep Learning! Keep Coding**
 <!--
